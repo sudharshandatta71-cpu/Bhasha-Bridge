@@ -1,0 +1,8 @@
+{
+  "name": "Bhasha Bridge Voice Translator",
+  "description": "An AI-powered voice translation app supporting all Indian languages. Speak in one language and generate natural voice output in another using Gemini's advanced models.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
